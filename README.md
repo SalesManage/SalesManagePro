@@ -1,1 +1,2 @@
 # SalesManagePro
+#Create first repository.
